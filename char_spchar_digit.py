@@ -1,5 +1,5 @@
 character = 'QWERTYUIOPASDFGHJKLZXCVBNMmnbvcxzlkjhgfdsapoiuytrewq'
-digit = '2','3','4','5','6','7','8','9','0'
+digit = '1'2','3','4','5','6','7','8','9','0'
 special_character = '@','#','!','$','%','^','&','*','(',')'
 char = input("Enter a character , Digit or Special Character :")
 if char in character :
